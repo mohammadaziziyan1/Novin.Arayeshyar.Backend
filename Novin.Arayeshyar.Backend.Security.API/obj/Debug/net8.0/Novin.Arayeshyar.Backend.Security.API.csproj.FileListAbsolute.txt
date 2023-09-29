@@ -1,0 +1,193 @@
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\appsettings.Development.json
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\appsettings.json
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.exe
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.deps.json
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.runtimeconfig.json
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.pdb
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.AssemblyReference.cache
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfoInputs.cache
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfo.cs
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.CoreCompileInputs.cache
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cs
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cache
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.build.json
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.development.json
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.Novin.Arayeshyar.Backend.Security.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Novin.Arayeshyar.Backend.Security.API.props
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Novin.Arayeshyar.Backend.Security.API.props
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Novin.Arayeshyar.Backend.Security.API.props
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.pack.json
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\scopedcss\bundle\Novin.Arayeshyar.Backend.Security.API.styles.css
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.CopyComplete
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\refint\Novin.Arayeshyar.Backend.Security.API.dll
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.pdb
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.genruntimeconfig.cache
+G:\پروژه اصلی\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\ref\Novin.Arayeshyar.Backend.Security.API.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\appsettings.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.exe
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.deps.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.runtimeconfig.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.pdb
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.AssemblyReference.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfoInputs.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfo.cs
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.CoreCompileInputs.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.Novin.Arayeshyar.Backend.Security.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Novin.Arayeshyar.Backend.Security.API.props
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Novin.Arayeshyar.Backend.Security.API.props
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Novin.Arayeshyar.Backend.Security.API.props
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\scopedcss\bundle\Novin.Arayeshyar.Backend.Security.API.styles.css
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.CopyComplete
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\refint\Novin.Arayeshyar.Backend.Security.API.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.pdb
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.genruntimeconfig.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\ref\Novin.Arayeshyar.Backend.Security.API.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.pdb
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.pdb
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.CodeDom.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\appsettings.Development.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\appsettings.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.exe
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.deps.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.runtimeconfig.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.pdb
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Azure.Core.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Azure.Identity.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Humanizer.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.CodeDom.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Memory.Data.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.pdb
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.pdb
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.AssemblyReference.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfoInputs.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfo.cs
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.CoreCompileInputs.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cs
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.build.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.development.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.Novin.Arayeshyar.Backend.Security.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Novin.Arayeshyar.Backend.Security.API.props
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Novin.Arayeshyar.Backend.Security.API.props
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Novin.Arayeshyar.Backend.Security.API.props
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\staticwebassets.pack.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\scopedcss\bundle\Novin.Arayeshyar.Backend.Security.API.styles.css
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.csproj.CopyComplete
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\refint\Novin.Arayeshyar.Backend.Security.API.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.pdb
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\Novin.Arayeshyar.Backend.Security.API.genruntimeconfig.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net8.0\ref\Novin.Arayeshyar.Backend.Security.API.dll

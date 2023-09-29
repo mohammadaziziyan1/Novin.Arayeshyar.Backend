@@ -1,0 +1,34 @@
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.deps.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.pdb
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.pdb
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.csproj.AssemblyReference.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.AssemblyInfoInputs.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.AssemblyInfo.cs
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.csproj.CopyComplete
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\refint\Novin.Arayeshyar.Backend.infrastructure.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.pdb
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\ref\Novin.Arayeshyar.Backend.infrastructure.dll
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.runtimeconfig.json
+C:\Users\98918\OneDrive\Desktop\پروژه اصلی2\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.genruntimeconfig.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.deps.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.runtimeconfig.json
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.pdb
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\bin\Debug\net8.0\Novin.Arayeshyar.Backend.Core.pdb
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.csproj.AssemblyReference.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.AssemblyInfoInputs.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.AssemblyInfo.cs
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.csproj.CoreCompileInputs.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.csproj.CopyComplete
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\refint\Novin.Arayeshyar.Backend.infrastructure.dll
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.pdb
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\Novin.Arayeshyar.Backend.infrastructure.genruntimeconfig.cache
+G:\mainproj\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.infrastructure\obj\Debug\net8.0\ref\Novin.Arayeshyar.Backend.infrastructure.dll
