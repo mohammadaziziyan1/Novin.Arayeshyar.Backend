@@ -11,7 +11,7 @@ namespace Novin.Arayeshyar.Backend.Core.Entities
         public string MobileNumber { get; set; }
         public string Password { get; set; }
 
-        public Customer(global::System.String mobileNumber, global::System.String password)
+        public Customer(string mobileNumber, string password)
         {
             MobileNumber = mobileNumber;
             Password = password;

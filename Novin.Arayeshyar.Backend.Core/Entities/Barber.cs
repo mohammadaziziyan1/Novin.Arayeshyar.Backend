@@ -15,7 +15,7 @@ namespace Novin.Arayeshyar.Backend.Core.Entities
         public string? NationalCode { get; set; }
         public string MobileNumber { get; set; }
 
-        public Barber(global::System.String mobileNumber, global::System.String password)
+        public Barber(string mobileNumber, string password)
         {
             MobileNumber = mobileNumber;
             Password = password;

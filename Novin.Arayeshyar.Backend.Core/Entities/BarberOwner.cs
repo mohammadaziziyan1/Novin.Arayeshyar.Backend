@@ -16,7 +16,7 @@ namespace Novin.Arayeshyar.Backend.Core.Entities
         public string MobileNumber { get; set; }
         public string Password { get; set; }
 
-        public BarberOwner(global::System.String mobileNumber, global::System.String password, global::System.Int32 licenseCode)
+        public BarberOwner(string mobileNumber, string password, int licenseCode)
         {
             MobileNumber = mobileNumber;
             Password = password;

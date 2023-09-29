@@ -10,7 +10,7 @@ namespace Novin.Arayeshyar.Backend.Core.Entities
     {
         public string Username { get; set; }
 
-        public SystemManager(global::System.String username, global::System.String password)
+        public SystemManager(string username, string password)
         {
             Username = username;
             Password = password;
