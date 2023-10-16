@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Novin.Arayeshyar.Backend.Core.Entities;
 using Novin.Arayeshyar.Backend.infrastructure.Database;
+using Novin.Arayeshyar.Backend.Security.API.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,9 +12,13 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ArayeshyarDB>(Options =>
 {
-    Options.UseSqlServer("server=(localdb)\\MSSQLLocalDB;database=ArayeshyarDB;Trusted_Connection=true");
+    Options.UseSqlServer(builder.Configuration.GetConnectionString("MainDB"));
 });
-
+builder.Services.AddCors(m=>m
+.AddDefaultPolicy(n=>n
+.AllowAnyOrigin()
+.AllowAnyHeader()
+.AllowAnyMethod()));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,30 +29,35 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors();
 
-var summaries = new[]
+app.MapPost("/adminlogin", (ArayeshyarDB db, LoginRequestDTO login) =>
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+    if (!db.SystemManagers.Any()) 
+    {
+        var firstadmin = new SystemManager("09182139705" ,"@Moha1368" ,"222" );
+        db.SystemManagers.Add(firstadmin);
+        db.SaveChanges();
+    }
+    
+    var result=db.SystemManagers
+    .Where(m=>m.Password == login.Password && m.Username==login.Username)
+    .FirstOrDefault();
+    if (result!=null)
+    {
+        return new
+        {
+           Isok = true,
+            Message = "modir jan salam"
+        };
+
+    }
+    return new
+    {
+        Isok = false,
+        Message = "bebakhshid shoma"
 };
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast = Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+});
 
 app.Run();
 
-internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

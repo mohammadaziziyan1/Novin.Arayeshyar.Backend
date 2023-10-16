@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Novin.Arayeshyar.Backend.infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d97d8479d91d55f73a6b001ff21dbc7606eed7d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa34b3ef301e4b16b288b17b003fe89abe828f43")]
 [assembly: System.Reflection.AssemblyProductAttribute("Novin.Arayeshyar.Backend.infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Novin.Arayeshyar.Backend.infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
